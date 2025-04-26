@@ -3,11 +3,11 @@
 	"displayName": "Dark Modern Darker",
 	"description": "A darker theme based on the Dark Modern VS Code theme",
 	"publisher": "DarkPhoenix",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"engines": {
 		"vscode": "^1.92.0"
 	},
-	"icon": "images/logo.png",
+	"icon": "images/logo.jpg",
 	"categories": ["Themes"],
 	"repository": {
 		"type": "git",
